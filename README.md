@@ -29,12 +29,12 @@ Puedes visitar el proyecto en línea:
 
 O clonar el repositorio y abrir el archivo index.html en tu navegador:
 
-git clone https://github.com/tuusuario/tu-repo.git
+git clone https://github.com/tuusuario/tu-repo.git](https://github.com/jossxopa/portafolio.git)
 
 📬 Conecta conmigo
 
 Si te interesa colaborar o tienes feedback, puedes encontrarme en:
 
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/juanjoseromeroxopa/)
 
-GitHub
+[GitHub](https://github.com/jossxopa/portafolio.git)
