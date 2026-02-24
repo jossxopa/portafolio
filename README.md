@@ -25,7 +25,7 @@ Aquí podrías poner una captura de pantalla de tu portafolio
 🚀 Cómo verlo:
 
 Puedes visitar el proyecto en línea:
-🔗 Ver Portafolio
+🔗 [Ver Portafolio](https://portafolio-cyan-sigma.vercel.app/index.html)
 
 O clonar el repositorio y abrir el archivo index.html en tu navegador:
 
