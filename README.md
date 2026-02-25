@@ -18,7 +18,6 @@ CSS3 – para el diseño y la responsividad
 
 📸 Vista previa
 
-Aquí podrías poner una captura de pantalla de tu portafolio
 
 ![Preview del Portafolio](./img/Mockup.png)
 
